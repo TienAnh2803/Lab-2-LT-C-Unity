@@ -1,0 +1,7 @@
+D:\Lab 2 LT C#\MoreEx\bin\Debug\MoreEx.exe.config
+D:\Lab 2 LT C#\MoreEx\bin\Debug\MoreEx.exe
+D:\Lab 2 LT C#\MoreEx\bin\Debug\MoreEx.pdb
+D:\Lab 2 LT C#\MoreEx\obj\Debug\MoreEx.csproj.AssemblyReference.cache
+D:\Lab 2 LT C#\MoreEx\obj\Debug\MoreEx.csproj.CoreCompileInputs.cache
+D:\Lab 2 LT C#\MoreEx\obj\Debug\MoreEx.exe
+D:\Lab 2 LT C#\MoreEx\obj\Debug\MoreEx.pdb

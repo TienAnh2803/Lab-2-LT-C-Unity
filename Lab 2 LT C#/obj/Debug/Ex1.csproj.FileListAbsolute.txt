@@ -1,0 +1,4 @@
+D:\Lab 2 LT C#\Lab 2 LT C#\obj\Debug\Ex1.csproj.AssemblyReference.cache
+D:\Lab 2 LT C#\Lab 2 LT C#\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+D:\Lab 2 LT C#\Lab 2 LT C#\obj\Debug\Lab 2 LT C#.exe
+D:\Lab 2 LT C#\Lab 2 LT C#\obj\Debug\Lab 2 LT C#.pdb
